@@ -21,7 +21,8 @@ android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 
 # Ekran orientatsiyasi: "sensor" - foydalanuvchi tutgan holatiga qarab
 # portrait va landscape o'rtasida avtomatik almashadi (talab #1 ga mos)
-orientation = sensor
+orientation = landscape
+
 
 # Ilova to'liq ekranli rejimda emas (status bar ko'rinib tursin)
 fullscreen = 0
